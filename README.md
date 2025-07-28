@@ -197,7 +197,7 @@ To pokazuje głębokie przyswojenie wzorców myślenia weterynaryjnego!
 
 ## 🎯 Dlaczego publikujemy preview?
 
-Przy 64% treningu i train loss 0.042, model osiągnął punkt, gdzie:
+Przy 16% treningu i train loss 0.042, model osiągnął punkt, gdzie:
 - Konsekwentnie generuje wysokiej jakości odpowiedzi
 - Pokazuje unikalne zachowanie rozumowania
 - Jest gotowy do testów społeczności
